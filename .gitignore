@@ -1,0 +1,13 @@
+# Ignore the huge dataset
+data/
+
+# Ignore the virtual environment
+fraudlens-env/
+
+# Ignore Python cache and models
+__pycache__/
+models/*.pkl
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
